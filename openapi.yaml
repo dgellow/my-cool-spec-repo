@@ -122,7 +122,7 @@ paths:
                   $ref: '#/components/schemas/Pet'
         '400':
           description: Invalid status value
-  /pet/findByTags:
+  /pet/testing:
     get:
       tags:
         - pet
