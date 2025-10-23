@@ -236,7 +236,7 @@ paths:
       responses:
         '400':
           description: Invalid pet value
-  /pet/{petId}/uploadImage:
+  /pet/{petId}/auie:
     post:
       tags:
         - pet
