@@ -17,7 +17,7 @@ tags:
   - name: user
     description: Operations about user
 paths:
-  /something-pet:
+  /something-else:
     put:
       tags:
         - pet
